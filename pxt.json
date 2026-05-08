@@ -1,10 +1,11 @@
 {
     "name": "EBRAHIM",
-    "description": "",
+    "description": "V2 超级计步器 - 步数/卡路里(MET)/距离/配速/指南针/声音/Logo触控/拍手记录",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "datalogger": "*"
     },
     "files": [
         "main.blocks",
